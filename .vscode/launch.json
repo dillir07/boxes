@@ -5,7 +5,7 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "Deno",
+            "name": "Deno - Debug file",
             "type": "pwa-node",
             "request": "launch",
             "cwd": "${workspaceFolder}",
